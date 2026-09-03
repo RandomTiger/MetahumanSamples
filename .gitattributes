@@ -1,3 +1,6 @@
 Content/Zebra/Assets/Zebra/Materials/T_Zebra_N.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Zebra/Assets/Zebra/Meshes/SKM_Zebra_Hi.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Zebra/Assets/Zebra/Materials/Textures/T_Zebra_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Vampire/Metahumans/Vampire/Baked/T_Vampire_Cloth_BC.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Vampire/Metahumans/Vampire/Baked/T_Vampire_Cloth_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Vampire/Metahumans/Vampire/SKM_Vampire_Face.uasset filter=lfs diff=lfs merge=lfs -text
