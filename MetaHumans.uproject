@@ -98,6 +98,18 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "Locomotor",
+			"Enabled": true
+		},
+		{
+			"Name": "RigMapperOp",
+			"Enabled": true
+		},
+		{
+			"Name": "DirectMeshControl",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
